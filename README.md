@@ -4,6 +4,8 @@ I am a digital media artist making games, graphics, videos, and everything under
 
 
 * 🌴 [Portfolio](https://terrydubois.io)
-* 🎮 [Games](https://terrydubois.itch.io)
+* 🎮 [Itch.io](https://terrydubois.itch.io)
+* 📽️ [YouTube](https://www.youtube.com/channel/UCit9EfM6UoolH9nxo4k8WeQ)
+* 💼 [LinkedIn](https://www.linkedin.com/in/terry-dubois/)
 
-
+Cheers! 🍻
