@@ -8,4 +8,4 @@ I am a digital media artist making games, graphics, videos, and everything under
 * 📽️ [YouTube](https://www.youtube.com/channel/UCit9EfM6UoolH9nxo4k8WeQ)
 * 💼 [LinkedIn](https://www.linkedin.com/in/terry-dubois/)
 
-Cheers! 🍻
+Cheers! 🥂
