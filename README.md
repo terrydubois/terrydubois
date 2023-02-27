@@ -1,6 +1,6 @@
 ### Hello! I'm Terry (he/him)
 
-I am a digital media artist making games, graphics, videos, websites, and everything under the virtual sun. I am an alumni of the University of California, Santa Cruz, where I received a Bachelor of Science in Computer Game Design. I like being a part of projects that are exciting, unique, and stylish! I also love participating in game jams, hackathons, and creative challenges. Thanks for stopping by my Github profile!
+I am a game developer, programmer, and visual artist. I have a Bachelor of Science in Computer Game Design from the University of California, Santa Cruz. I like workinig on projects that are unique and stylish!
 
 
 * 🌴 [Portfolio](https://terrydubois.io)
