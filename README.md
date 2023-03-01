@@ -1,6 +1,6 @@
 ### Hello! I'm Terry (he/him)
 
-I am a game developer, programmer, and visual artist. I have a Bachelor of Science in Computer Game Design from the University of California, Santa Cruz. I like workinig on projects that are unique and stylish!
+I am a game developer, programmer, and visual artist. I have a Bachelor of Science in Computer Game Design from the University of California, Santa Cruz. I like working on projects that are unique and stylish!
 
 
 * 🌴 [Portfolio](https://terrydubois.io)
